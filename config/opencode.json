@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "op-blender-mcp": {
+      "type": "local",
+      "command": ["op-blender-mcp"],
+      "enabled": true,
+      "description": "OpenCode-optimized Blender integration through the Model Context Protocol"
+    }
+  }
+}
